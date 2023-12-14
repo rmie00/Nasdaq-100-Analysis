@@ -1,6 +1,9 @@
 [server]
-runOnsave = true
+runOnSave = true
 [deprecation]
-showPyplotGlobalUSe = false
+showPyplotGlobalUse = false
 [theme]
-base = 'light'
+base="light"
+primaryColor="#4bd0ff"
+backgroundColor="#e0e0e0"
+secondaryBackgroundColor="#ffffff"
