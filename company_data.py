@@ -30,3 +30,4 @@ nasdaq_dict = {
     'Sirius XM Holdings Inc': 'SIRI', 'Align Technology Inc': 'ALGN', 'Enphase Energy Inc': 'ENPH',
     'JD.com Inc ADR': 'JD', 'Lucid Group Inc': 'LCID'
 }
+
