@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from company_data import nasdaq_dict
-from streamlit_extras.stylable_container import stylable_container
 
 st.set_page_config(page_title='Nasdaq 100 Index',
                    layout='wide',
